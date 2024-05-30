@@ -7,3 +7,18 @@ body{
     background-color: beige;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+h1, h2{
+    padding: 20px;
+    text-align: center;
+}
+p{
+    line-height: 2;
+}
+footer{
+    background-color: blue;
+    color: whitesmoke;
+    padding: 1rem;
+}
+h4{
+    color: yellow;
+}
